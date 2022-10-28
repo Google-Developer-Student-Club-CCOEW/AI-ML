@@ -1,6 +1,0 @@
-Required Libraries:
-
-1.numpy: To deal with the numerical data
-2.pandas: To provide expressive data structures designed to work with the labelled data
-3.seaborn: For Plotting the data, adding theme 
-4.matplotlib: For Plotting and labelling the data, and to set specific size of the graph
